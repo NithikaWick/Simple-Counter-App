@@ -1,2 +1,2 @@
 # Simple-Counter-App
-A Simple Counter App using HTML/CSS/JavaScript
+A Simple Counter App using HTML/CSS/JavaScript. I made to to practice HTML/CSS/JavaScript....
